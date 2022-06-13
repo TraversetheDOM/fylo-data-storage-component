@@ -1,0 +1,51 @@
+/* Media Queries */
+
+/* 
+
+For screen sizes which are 1000px and above
+
+*/
+
+@media screen and (min-width: 62.5em) {
+  .container {
+    max-width: 130rem;
+    padding-left: var(--space-5);
+    padding-left: var(--space-5);
+    margin: 0 auto;
+  }
+
+  .section_storage-component {
+    background-color: var(--very-dark-blue);
+    background-image: url(../images/bg-desktop.png);
+    background-position-y: bottom;
+    background-size: contain;
+    flex-direction: row;
+  }
+
+  .box_two {
+    height: 15.2rem;
+    transform: translateY(30.5px);
+  }
+
+  .storage_amount_remained {
+    top: 0px;
+    right: 1%;
+    border-bottom-right-radius: 0px;
+    transform: translate(5%, -73%);
+  }
+
+  .storage_amount_remained.arrow_bottom:after {
+    content: " ";
+    position: absolute;
+    right: 0;
+    bottom: -15px;
+    border-top: 30px solid var(--white);
+    /*   border-right: 15px solid transparent; */
+    border-left: 30px solid transparent;
+    border-bottom: none;
+  }
+
+  .storage_message {
+    text-align: left;
+  }
+}
