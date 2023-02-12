@@ -32,8 +32,8 @@ _A mobile view of the design_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/salutDami/fylo-data-storage-component)
-- Live Site URL: [Add live site URL here](https://salutdami.github.io/fylo-data-storage-component/)
+- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/fylo-data-storage-component)
+- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/fylo-data-storage-component/)
 
 ## My process
 
