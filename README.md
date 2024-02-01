@@ -32,8 +32,8 @@ _A mobile view of the design_
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/TraversetheDOM/fylo-data-storage-component)
-- Live Site URL: [Add live site URL here](https://TraversetheDOM.github.io/fylo-data-storage-component/)
+- Solution URL: [Add solution URL here](https://github.com/stephenikuomola/fylo-data-storage-component)
+- Live Site URL: [Add live site URL here](https://stephenikuomola.github.io/fylo-data-storage-component/)
 
 ## My process
 
@@ -87,6 +87,6 @@ More understanding of positioning was also achieved here. Some snippets are foun
 
 ## Author
 
-- Twitter - [@\_salutDami](https://www.twitter.com/_salutDami)
+- Twitter - [@\_salutDami](https://www.twitter.com/stephenikuomola)
 - Linkedin- [Ikuomola Stephen](https://www.linkedin.com/in/ikuomola-stephen/)
-- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/salutDami)
+- Frontend Mentor - [@salutDami](https://www.frontendmentor.io/profile/stephenikuomola)
